@@ -42,4 +42,4 @@ Pada tutorial ini penyusun akan membahas tentang dasar - dasar pemetaan mengguna
 
 Terimakasih kepada: [WCPL ITB](http://weather.meteo.itb.ac.id/) 
 
-![WCPL ITB](wcpl.png =50x)
+<img src="wcpl.png" alt="wcpl-itb" width="200"/>
