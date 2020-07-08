@@ -46,7 +46,7 @@ Pada tutorial ini penyusun akan membahas tentang dasar - dasar pemetaan mengguna
 2. Sekilas tentang proyeksi peta
 3. Menambahkan fitur pada peta
 4. Membaca file shp dan menampilkan data geometri negara
-5. Menampilkan peta gempa hari ini
+5. Menampilkan peta gempa bumi hari ini
 
 Terimakasih kepada Dr. Edi Riawan ([WCPL ITB](http://weather.meteo.itb.ac.id/)). 
 
