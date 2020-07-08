@@ -48,6 +48,6 @@ Pada tutorial ini penyusun akan membahas tentang dasar - dasar pemetaan mengguna
 4. Membaca file shp dan menampilkan data geometri negara
 5. Menampilkan peta gempa hari ini
 
-Terimakasih kepada Dr.Edi Riawan dari [WCPL ITB](http://weather.meteo.itb.ac.id/) 
+Terimakasih kepada Dr. Edi Riawan dari [WCPL ITB](http://weather.meteo.itb.ac.id/) 
 
 <img src="wcpl.png" alt="wcpl-itb" width="200"/>
