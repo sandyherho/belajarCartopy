@@ -4,6 +4,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://forthebadge.com)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+```
+[![DOI](https://zenodo.org/badge/277730230.svg)](https://zenodo.org/badge/latestdoi/277730230)
+```
+
 oleh:
 
 [Sandy H.S. Herho](mailto:sandy.herho@igdore.org) 
